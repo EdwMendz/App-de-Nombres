@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppDeNombre2</string>
+    <string name="btn_respuesta">Enviar</string>
+    <string name="tv_respuesta">Yo creo que eres %s</string>
+    <string name="tv_aviso">Voy a adivinar \n tu nombre</string>
+    <string name="tiet_nombre">ingresa tu nombre</string>
+</resources>
